@@ -28,8 +28,8 @@
 
 ## 📁 Структура проекта
 my_ds_project/
-├── decision_three/
-│ └── Decision Three.ipynb # Jupyter ноутбук с кодом
+├── Обнаружение_мошеннических_транзакций/
+│ └── Decision Tree.ipynb # Jupyter ноутбук с кодом
 ├── data.csv # Исходные данные (не включен в репозиторий)
 ├── requirements.txt # Зависимости проекта
 ├── .gitignore # Исключения для Git
@@ -65,7 +65,7 @@ pip install -r requirements.txt
 
 ### 4. Запуск Jupyter Notebook
 ```bash
-jupyter notebook "decision_three/Decision Three.ipynb"
+jupyter notebook "Обнаружение_мошеннических_транзакций/Decision Tree.ipynb"
 ```
 
 ## 📈 Основные шаги анализа 
