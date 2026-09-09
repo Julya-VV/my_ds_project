@@ -1,0 +1,27 @@
+* text=auto
+
+# Основные текстовые файлы
+*.txt text
+*.md text
+*.html text
+*.css text
+*.js text
+*.json text
+*.xml text
+*.svg text
+
+# Файлы для разных ОС
+*.sh text eol=lf
+*.bat text eol=crlf
+
+# Бинарные файлы
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.ttf binary
+*.woff binary
+*.woff2 binary
