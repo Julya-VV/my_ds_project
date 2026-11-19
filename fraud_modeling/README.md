@@ -138,7 +138,7 @@ jupyter notebook "Моделирование_мошенничества_в_тр�
 
 ![График изменения ROC_AUC на обучающей и валидационной выборках](../images/validation_curves.png)
 
-![Оценка стабильности модели XGBoost](images/validation_curves.png)
+![Оценка стабильности модели XGBoost](../images/XGBoost_ROC_AUC.png)
 
 
 ---
