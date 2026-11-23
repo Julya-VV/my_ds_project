@@ -31,8 +31,8 @@
 
 ## 📁 Структура проекта 
 my_ds_project/
-├── Моделирование_мошенничества_в_транзакциях/
-│ └── Градиентный бустинг.ipynb # Jupyter ноутбук с кодом
+├── /fraud_modeling
+│ └── fraud_modeling.ipynb # Jupyter ноутбук с кодом
 ├── data.csv # Исходные данные (не включен в репозиторий)
 ├── requirements.txt # Зависимости проекта
 ├── .gitignore # Исключения для Git
@@ -68,7 +68,7 @@ pip install -r requirements.txt
 
 ### 4. Запуск Jupyter Notebook
 ```bash
-jupyter notebook "Моделирование_мошенничества_в_транзакциях/Градиентный бустинг.ipynb"
+jupyter notebook "fraud_modeling/fraud_modeling.ipynb"
 ```
 
 ## 📈 Основные шаги анализа
@@ -78,6 +78,7 @@ jupyter notebook "Моделирование_мошенничества_в_тр�
 
 ### 2. Загрузка и подготовка данных
 - Загрузка датасета из CSV-файла
+- 
 - Отбор релевантных признаков(17 признаков)
 
 ### 3. Разделение данных
